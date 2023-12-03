@@ -18,7 +18,7 @@ If you want to find out more about my projects and what I'm currently working on
   <h4 align="left">Languages and Tools: </h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,docker,git,github,go,java,spring,mysql,postgres,redis,postman,gcp,stackoverflow">
+      <img src="https://skillicons.dev/icons?i=linux,docker,git,github,go,mysql,postgres,redis,postman,gcp,stackoverflow">
     </a>
   </p>
 </div>
