@@ -4,7 +4,7 @@
 
 I'm **Dimas A Yudhana 🌏**, a junior software engineer with a passion for **backend programming 🌐**. I'm currently learning **golang 70%** and **[java](https://github.com/orgs/java-thread-7/repositories) 30%**.
 
-If you want to find out more about my projects and what I'm currently working on, please check out some of my **pinned projects** below 👇 or my **[🔗 resume](https://docs.google.com/document/d/1Fj_Ss0WwAu4MfPMF_td3mCUdKIQ8gLec/edit?usp=sharing&ouid=105301146773314503984&rtpof=true&sd=true)** where I post about all the things I find interesting and the most useful insights for backend purposed.
+If you want to find out more about my projects and what I'm currently working on, please check out some of my **pinned projects** below 👇 or my **🔗[resume](https://docs.google.com/document/d/1Fj_Ss0WwAu4MfPMF_td3mCUdKIQ8gLec/edit?usp=sharing&ouid=105301146773314503984&rtpof=true&sd=true)** where I post about all the things I find interesting and the most useful insights for backend purposed.
 
 <a display="inline" target="_blank" href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimasyudhana&theme=github">
     <img alt="Profile overview" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimasyudhana&theme=github" height="160">
