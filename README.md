@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm **Dimas A Yudhana 🌏**, a junior software engineer with a passion for **backend programming 🌐**. I'm currently learning **golang 75%** and **[java](https://github.com/orgs/java-thread-7/repositories) 25%**.
+I'm **Dimas A Yudhana 🌏**, a junior software engineer with a passion for **backend programming 🌐**. I'm currently learning **golang** and **[java](https://github.com/orgs/java-thread-7/repositories)**.
 
 If you want to find out more about my projects and what I'm currently working on, please check out some of my **pinned projects** below 👇 or my **🔗[resume](https://docs.google.com/document/d/1Fj_Ss0WwAu4MfPMF_td3mCUdKIQ8gLec/edit?usp=sharing&ouid=105301146773314503984&rtpof=true&sd=true)** where I post about all the things I find interesting and the most useful insights for backend purposed.
 
@@ -26,8 +26,4 @@ If you want to find out more about my projects and what I'm currently working on
 <div>
   <h4 align="left">Let us connected:</h4>
     <a href=https://www.linkedin.com/in/dimas-a-yudhana-820008251><img height="25" width="100" title="linkedin.com/in/dimas-a-yudhana-820008251" src="./img/linkedin.png"></a>
-</div>
-
-<div>
-  <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" theme="tokyonight">
 </div>
