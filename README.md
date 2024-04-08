@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm **Dimas A Yudhana 🌏**, a junior software engineer with a passion for **backend programming 🌐**. I'm apparently doing endless stuff, trouble maker, problem solver with **golang** and **typescript** 😅.
+I'm **Dimas A Yudhana 🌏**, a junior software engineer with a passion for **backend programming 🌐**. I'm apparently doing endless stuff, trouble maker, problem solver with **golang** and **typescript**.
 
 If you want to find out more about my projects and what I'm currently working on, please check out some of my **pinned projects** below 👇 or my **🔗[resume](https://docs.google.com/document/d/1Fj_Ss0WwAu4MfPMF_td3mCUdKIQ8gLec/edit?usp=sharing&ouid=105301146773314503984&rtpof=true&sd=true)** where I post about all the things I find interesting and the most useful insights for backend purposed.
 
