@@ -6,5 +6,5 @@
 </a>
 <div>
   <h4 align="left">Let us connected:</h4>
-    <a href=https://www.linkedin.com/in/dimas-a-yudhana-820008251><img height="25" width="100" title="linkedin.com/in/dimas-a-yudhana-820008251" src="./img/linkedin.png"></a>
+    <a href=https://www.linkedin.com/in/gregorius-dimas-a-yudhana-820008251/><img height="25" width="100" title="linkedin.com/in/gregorius-dimas-a-yudhana-820008251/" src="./img/linkedin.png"></a>
 </div>
